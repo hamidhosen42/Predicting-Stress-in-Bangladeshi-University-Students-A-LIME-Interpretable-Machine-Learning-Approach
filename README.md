@@ -97,3 +97,16 @@ The study found that stress significantly impacts students' academic performance
 16. Onan, A.: Sarcasm identification on Twitter: A machine learning approach. *Advances in Intelligent Systems and Computing*. 374–383 (2017).
 17. Ribeiro, M.T. et al.: “Why should I trust you?” *Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining*. 1135–1144 (2016).
 18. Dieber, J., & Kirrane, S.: Why model why? Assessing the strengths and limitations of LIME. *arXiv preprint arXiv:2012.00093*. (2020).
+
+
+📚 Citation
+```
+@conference{hosen2024,
+  author = {Md. Hamid Hosen and Mohammad Tanvirul Islam and Kahakashan Ashraf and Promila Haque},
+  title = {Predicting Stress in Bangladeshi University Students: A LIME-Interpretable Machine Learning Approach},
+  booktitle = {Proceedings of the 2nd International Conference on Big Data, IoT, and Machine Learning: BIM 2023},
+  year = {2024},
+  address = {Bangladesh},
+  organization = {East Delta University}
+}
+```
